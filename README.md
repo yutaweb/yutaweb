@@ -31,6 +31,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuta3984/contributions.svg" />
   </a>
 </p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutaweb&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutaweb)](https://github.com/anuraghazra/github-readme-stats)
