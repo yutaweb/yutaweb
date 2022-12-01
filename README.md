@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/yutaweb/yutaweb/">
+    <img src="https://komarev.com/ghpvc/?username=yutaweb" alt="yutaweb" />
+  </a>
+  <a href="http://twitter.com/yuta_blog">
+    <img height="20" src="https://img.shields.io/twitter/follow/yuta_bog?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/yutaweb">
+    <img height="20" src="https://img.shields.io/github/followers/yutaweb?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/yuta3984">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuta3984/posts.svg" />
+  </a>
+  <//qiita.com/yuta3984">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuta3984/contributions.svg" />
+  </a>
+</p>
