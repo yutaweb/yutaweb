@@ -44,6 +44,3 @@ Here are some ideas to get you started:
   <li>応用情報技術者</li>
   <li>TOEIC 855点</li>
 </ul>
-
-<h3 align="left">論文</h3>
-FSSを用いた低粒度MIMO-OFDMAにおけるBER特性改善
