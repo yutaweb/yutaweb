@@ -21,12 +21,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/yutaweb">
     <img height="20" src="https://img.shields.io/github/followers/yutaweb?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/yuta3984">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yuta3984/posts.svg" />
-  </a>
-  <//qiita.com/yuta3984">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yuta3984/contributions.svg" />
-  </a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutaweb)](https://github.com/ryo-ma/github-profile-trophy)
